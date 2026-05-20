@@ -1,0 +1,17 @@
+{
+  "name": "nitesh",
+  "version": "1.0.0",
+  "description": "backend ",
+  "license": "ISC",
+  "author": "NiteshNS",
+  "type": "commonjs",
+  "main": "script1st&2nd.js",
+  "scripts": {
+    "start": "node ./script1st.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1"
+  }
+}
